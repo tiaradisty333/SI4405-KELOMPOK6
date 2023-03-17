@@ -12,9 +12,6 @@ Patriot proklamasi
 Sedia berkorban untukmu
 Pancasila dasar negara
 Rakyat adil makmur sentosa
-<<<<<<< HEAD
 Pribadi Bangsaku
-=======
-
 pancasila dasar negara
->>>>>>> origin/nandika
+
